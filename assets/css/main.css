@@ -3585,7 +3585,7 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		background-color: #4696e5;
+		background-color: #23272A;
 		color: #d1e5f9;
 		padding: 4.5em 0 2.5em 0 ;
 		-moz-align-items: center;
@@ -4049,9 +4049,9 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background-color: #f7f7f7;
+		background-color: #2C2F33;
 		color: #999999;
-		padding: 4.5em 0 2.5em 0 ;
+		padding: 1em 0 1em 0 ;
 		color: #b0b0b0;
 		text-align: center;
 	}
